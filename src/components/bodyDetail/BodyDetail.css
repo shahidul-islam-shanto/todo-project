@@ -1,0 +1,25 @@
+.body-container{
+  background-color: rgb(46, 45, 45);
+  margin: 0.5rem;
+  border-radius: 0.6rem;
+  
+  display: flex;
+  justify-content: space-between;
+  align-items: center; 
+  padding: 0.5rem;
+}
+.body-container:hover{
+    background-color: rgb(34, 34, 34);
+}
+.body-container p{
+    opacity: 0.6;
+}
+
+.btn-area{
+    border: none;
+    background-color: transparent;
+    color: red;
+    cursor: pointer;
+    margin: 0.5rem;
+  
+}
